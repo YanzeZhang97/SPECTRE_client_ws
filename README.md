@@ -2,7 +2,7 @@
 
 **This is another implementation for the [original project](https://github.com/ibrahim-anas/SPECTRE-ROS2). In this implementation, you are able to run a service in the [workstation side](https://github.com/YanzeZhang97/SPECTRE_server_ws) and run a image collection in the [robot/client side](https://github.com/YanzeZhang97/SPECTRE_client_ws).**
 
-The client side would be a robot or a computer and it will be used for collect the image data in real time. The code is tested in the `ROS2 foxy` envrionment. Please make sure you have `ROS2 foxy` installed.
+The client side would be a robot or a computer and it will be used for collect the image data in real time. **It require a camera configured on the computer/robot.** The code is tested in the `ROS2 foxy` envrionment. Please make sure you have `ROS2 foxy` installed.
 
 ## Running the code
 
