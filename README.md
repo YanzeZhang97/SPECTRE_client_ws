@@ -18,3 +18,6 @@ The client side would be a robot or a computer and it will be used for collect t
 
 `ros2 run python_gui pythongui_3`
 
+**step 4: Start Streaming**
+
+You can click the start streaming to stream the images to the network.
